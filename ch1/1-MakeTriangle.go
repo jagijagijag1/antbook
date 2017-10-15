@@ -3,7 +3,7 @@ package main
 import "fmt"
 import "math"
 
-func solve(n int, a []int) int {
+func solveMakeTriangle(n int, a []int) int {
 	ans := 0
 
 	for i := 1; i < n; i++ {
