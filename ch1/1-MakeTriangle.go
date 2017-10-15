@@ -1,4 +1,4 @@
-package triangle
+package main
 
 import "fmt"
 import "math"
